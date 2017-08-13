@@ -30,7 +30,7 @@ div.red {
 }
 
 .invisible {
-  display: none;
+  display: unset;
 }
 
 .visible {
